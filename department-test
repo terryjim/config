@@ -1,0 +1,13 @@
+department.tbl.title=title
+department.id=id
+department.name=name
+department.deptTypeId=deptTypeId
+department.deptLevelId=deptLevelId
+department.parentId=parentId
+department.linkman=linkman
+department.contactWay=contactWay
+department.tel=tel
+department.fax=fax
+department.email=E-mail
+department.introduction=introduction
+department.memo=memo
